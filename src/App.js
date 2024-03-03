@@ -10,7 +10,7 @@ function App() {
   };
 
   const handleButtonClick = () => {
-    setMessage(`Hi Welcome ${name}`);
+    setMessage(`HiWelcome ${name}`);
   };
 
   return (
